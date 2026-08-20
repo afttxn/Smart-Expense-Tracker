@@ -1,4 +1,4 @@
-# Expense Tracker
+# Smart Expense Tracker
 
 An expense tracker mobile application using Android Studio in Java.
 
