@@ -47,6 +47,6 @@ it redirects you to the search page which shows all the details under specific c
 - Menu
 - NavigationBar/ Drawer layout
 - Relatice Layout
-- Pie Chart (source: https://github.com/PhilJay/MPAndroidChart)
+- Pie Chart  
 - SearchView
 
